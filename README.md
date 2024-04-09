@@ -5,12 +5,12 @@ MSP-Podcast SER Challenge 2024 - L’antenne du Ventoux
 
 1. Clone the GitHub repository and install the requirements:
 
-    ```bash
-    git clone [https://github.com/speechbrain/speechbrain.git](https://github.com/Chaanks/MSP-Podcast-SER-Challenge-2024.git
-    cd speechbrain
-    pip install -r requirements.txt
-    pip install --editable .
-    ```
+```bash
+git clone [https://github.com/speechbrain/speechbrain.git](https://github.com/Chaanks/MSP-Podcast-SER-Challenge-2024.git
+cd speechbrain
+pip install -r requirements.txt
+pip install --editable .
+```
 
 ## 🏃‍♂️ Train a model
 
