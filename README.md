@@ -12,7 +12,7 @@ pip install -r requirements.txt
 pip install --editable .
 ```
 
-## 🏃‍♂️ Train a model
+## Train a model
 
 You can train a model for the task 1 using the following steps:
 
